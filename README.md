@@ -57,8 +57,8 @@ Our data sources were:
 * Disaggregation of data points.
 
 ## Other Participants:
-[Michael Maimoni](https://github.com/mmymoney/mmymoney.github.io)
-[Tiania Chan](https://github.com/tianiachan/tianiachan.github.io)
+[Michael Maimoni](https://github.com/mmymoney/mmymoney.github.io),
+[Tiania Chan](https://github.com/tianiachan/tianiachan.github.io),
 [Joana Sean](https://www.linkedin.com/in/joana-sean/)
  
 
