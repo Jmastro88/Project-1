@@ -56,7 +56,7 @@ Our data sources were:
 * Increase the time series to another decade or two to have a more comprehensive look.
 * Disaggregation of data points.
 
-## Other Participants:
+## Contributers:
 [Michael Maimoni](https://github.com/mmymoney/mmymoney.github.io),
 [Tiania Chan](https://github.com/tianiachan/tianiachan.github.io),
 [Joana Sean](https://www.linkedin.com/in/joana-sean/)
