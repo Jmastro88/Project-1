@@ -1,4 +1,4 @@
-# What-Fuels-DGP-Project-1
+# What-Fuels-GDP-Project
 
 ## Project Intro/Objective
 (Real) GDP is a measure of the economic health of a nation.
