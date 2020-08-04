@@ -61,19 +61,26 @@ Our data sources were:
  * Ued Python to format and convert data into CSV.
  * Analyzed fuel price and fuel consumption.
  * Analyzed feul price and GDP.
-[Tiania Chan](https://github.com/tianiachan/tianiachan.github.io)
+ 
+ [Tiania Chan](https://github.com/tianiachan/tianiachan.github.io)
  * Ued Python to format and convert data into CSV.
  * Analyzed annual miles and real GDP.
  * Analyzed consumption and annual miles
+
+
 [Joana Sean](https://www.linkedin.com/in/joana-sean/)
  * Ued Python to format and convert data into CSV.
  * Analyzed consumption and real GDP.
  * Analyzed AVG MPG and REal GDP.
+
+
 [Jonpaul Mastropaolo](https://www.linkedin.com/in/jonpaul-mastropaolo-a5310552/)
  * Ued Python to format and convert data into CSV.
  * Analyzed fuel price and mpg.
  * Analyzed fuel price and real GDP.
+
 [Tiger Cosmos](https://www.linkedin.com/in/tigercosmos/)
+ * Ued Python to format and convert data into CSV.
  * Analyzed AVG MPG and consumption.
  * Analyzed AVG MPG and annual miles.
   
