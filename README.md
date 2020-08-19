@@ -1,7 +1,7 @@
 # What-Fuels-GDP-Project
 
 ![Seaborn Scatter Histogram Matrix](https://github.com/Jmastro88/What-Fuels-GDP-Project/images/Tiger/scatter_hist.png)
-Format: ![Alt Text](url)
+
 
 ## Project Intro/Objective
 (Real) GDP is a measure of the economic health of a nation.
