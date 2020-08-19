@@ -1,6 +1,6 @@
 # What-Fuels-GDP-Project
 
-![Seaborn Scatter Histogram Matrix](https://github.com/Jmastro88/What-Fuels-GDP-Project/images/Tiger/scatter_hist)
+![Seaborn Scatter Histogram Matrix](https://github.com/Jmastro88/What-Fuels-GDP-Project/images/Tiger/scatter_hist.png)
 Format: ![Alt Text](url)
 
 ## Project Intro/Objective
