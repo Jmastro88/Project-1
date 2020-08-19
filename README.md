@@ -1,5 +1,8 @@
 # What-Fuels-GDP-Project
 
+![Seaborn Scatter Histogram Matrix](/images/Tiger/scatter_hist)
+Format: ![Alt Text](url)
+
 ## Project Intro/Objective
 (Real) GDP is a measure of the economic health of a nation.
 We hypothesized that there is a correlation between petroleum / transportation-related indicators and Real GDP, as well as among these indicators themselves.
