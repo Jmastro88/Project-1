@@ -1,6 +1,6 @@
 # What-Fuels-GDP-Project
 
-![Seaborn Scatter Histogram Matrix](https://github.com/Jmastro88/What-Fuels-GDP-Project/blob/master/images/scatter_hist.png " height="24" width="48")
+![Seaborn Scatter Histogram Matrix]<https://github.com/Jmastro88/What-Fuels-GDP-Project/blob/master/images/scatter_hist.png " height="24" width="48">
 
 
 ## Project Intro/Objective
