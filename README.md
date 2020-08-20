@@ -56,7 +56,7 @@ Our data sources were:
 
 ## Needs of This project
 * Ordinary Least Squares Regression for the top factors uncovered within our preliminary analysis to further understand the impact these factors jointly have on GDP. 
-* Increase the time series to another decade or two to have a more comprehensive look.
+* Increase the time series data size to another decade or two to have a more comprehensive look.
 * Disaggregation of data points.
 
 ## Contributers:
